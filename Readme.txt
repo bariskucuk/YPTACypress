@@ -1,12 +1,11 @@
 Requirements
-## Setup
 + Install Visual Studio Code
-+ Clone the repository
++ Open VS Code and Clone the repository
 + Install node.js and npm
 + Install cypress (npm install cypress --save-dev)
 + Install all dependencies using `npm install`
 + Java for Allure Reports
-+ Docker Desktop
++ Install Docker Desktop / https://hub.docker.com/r/cypress/included
   -image: "cypress/included:9.5.0"
 
 TO Run Tests 
