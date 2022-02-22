@@ -1,0 +1,25 @@
+version: '3.9'
+services:
+  # cypress/included container to run cypress tests using Chrome browser version 94.0.4606.61
+  cypress-chrome:
+    image: "cypress/included:9.5.0"
+    command: [npx cypress run --browser chrome"]
+    working_dir: /cypress
+    volumes:
+     - ./:/cypress
+
+  # cypress/included container to run cypress tests using Firefox browser version 93.0
+  cypress-firefox:
+    image: "cypress/included:9.5.0"
+    command: [npx cypress run --browser firefox"]
+    working_dir: /cypress
+    volumes:
+     - ./:/cypress
+
+  # cypress/included container to run cypress tests using Edge browser
+  ms-edge:
+    image: "cypress/included:9.5.0"
+    command: [npx cypress run --browser edge"]
+    working_dir: /cypress
+    volumes:
+      - ./:/cypress

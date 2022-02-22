@@ -1,0 +1,41 @@
+[ {
+  "uid" : "1e4d2a6fd70401d",
+  "name" : ".type() InValid email Invalid Pass - type into a DOM element",
+  "time" : {
+    "start" : 1645379133278,
+    "stop" : 1645379140640,
+    "duration" : 7362
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af97f00733a7e3cc",
+  "name" : ".type() Valid email and pass - type into a DOM element",
+  "time" : {
+    "start" : 1645379110308,
+    "stop" : 1645379126513,
+    "duration" : 16205
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e25576e4a87f1540",
+  "name" : ".type() Valid email Invalid Pass - type into a DOM element",
+  "time" : {
+    "start" : 1645379126546,
+    "stop" : 1645379133235,
+    "duration" : 6689
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e94e75f2789df15a",
+  "name" : ".type() InValid email valid Pass - type into a DOM element",
+  "time" : {
+    "start" : 1645379140657,
+    "stop" : 1645379146908,
+    "duration" : 6251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

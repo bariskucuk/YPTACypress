@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 20 20:45:33 AST 2022","Sun Feb 20 20:45:40 AST 2022","7362","","Actions","","","",".type() InValid email Invalid Pass - type into a DOM element",""
+"passed","Sun Feb 20 20:45:10 AST 2022","Sun Feb 20 20:45:26 AST 2022","16205","","Actions","","","",".type() Valid email and pass - type into a DOM element",""
+"passed","Sun Feb 20 20:45:26 AST 2022","Sun Feb 20 20:45:33 AST 2022","6689","","Actions","","","",".type() Valid email Invalid Pass - type into a DOM element",""
+"passed","Sun Feb 20 20:45:40 AST 2022","Sun Feb 20 20:45:46 AST 2022","6251","","Actions","","","",".type() InValid email valid Pass - type into a DOM element",""

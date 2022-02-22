@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 4,
+    "passes": 4,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-02-22T18:19:23.219Z",
+    "end": "2022-02-22T18:20:33.797Z",
+    "duration": 70578
+  },
+  "tests": [
+    {
+      "title": ".type() Valid email and pass - type into a DOM element",
+      "fullTitle": "Actions .type() Valid email and pass - type into a DOM element",
+      "duration": 32721,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": ".type() Valid email Invalid Pass - type into a DOM element",
+      "fullTitle": "Actions .type() Valid email Invalid Pass - type into a DOM element",
+      "duration": 14648,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": ".type() InValid email Invalid Pass - type into a DOM element",
+      "fullTitle": "Actions .type() InValid email Invalid Pass - type into a DOM element",
+      "duration": 10641,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": ".type() InValid email valid Pass - type into a DOM element",
+      "fullTitle": "Actions .type() InValid email valid Pass - type into a DOM element",
+      "duration": 6409,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": ".type() Valid email and pass - type into a DOM element",
+      "fullTitle": "Actions .type() Valid email and pass - type into a DOM element",
+      "duration": 32721,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": ".type() Valid email Invalid Pass - type into a DOM element",
+      "fullTitle": "Actions .type() Valid email Invalid Pass - type into a DOM element",
+      "duration": 14648,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": ".type() InValid email Invalid Pass - type into a DOM element",
+      "fullTitle": "Actions .type() InValid email Invalid Pass - type into a DOM element",
+      "duration": 10641,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": ".type() InValid email valid Pass - type into a DOM element",
+      "fullTitle": "Actions .type() InValid email valid Pass - type into a DOM element",
+      "duration": 6409,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}

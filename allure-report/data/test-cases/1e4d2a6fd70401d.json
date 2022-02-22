@@ -1,0 +1,466 @@
+{
+  "uid" : "1e4d2a6fd70401d",
+  "name" : ".type() InValid email Invalid Pass - type into a DOM element",
+  "fullName" : ".type() InValid email Invalid Pass - type into a DOM element",
+  "historyId" : "ea34f56e7ca8dda4642008c006e63335",
+  "time" : {
+    "start" : 1645379133278,
+    "stop" : 1645379140640,
+    "duration" : 7362
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "\"before each\" hook",
+      "time" : {
+        "start" : 1645379133280,
+        "stop" : 1645379138716,
+        "duration" : 5436
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "visit https://www.yemeksepeti.com/en/ankara",
+        "time" : {
+          "start" : 1645379133656,
+          "stop" : 1645379138715,
+          "duration" : 5059
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST 200 /Basket/GetBasketInfo",
+        "time" : {
+          "start" : 1645379138712,
+          "stop" : 1645379138712,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST 200 https://admclientapi.yemeksepeti.com/zonecontent/home-footer/web",
+        "time" : {
+          "start" : 1645379138712,
+          "stop" : 1645379138712,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST 200 /Home/Discounts",
+        "time" : {
+          "start" : 1645379138712,
+          "stop" : 1645379138712,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST https://www.google-analytics.com/j/collect?v=1&_v=j96&a=24250909&t=pageview&cu=TRY&_s=1&dl=https://www.yemeksepeti.com/en/ankara&ul=en-us&de=UTF-8&dt=Ankara Online Food Order & Delivery - Yemek Sepeti&sd=24-bit&sr=1920x1080&vp=983x643&je=0&_u=aGBAAAIJAAAAAC~&jid=362869821&gjid=195593599&cid=534995506.1645379137&tid=UA-86673819-2&_gid=283358875.1645379137&_r=1&_slc=1&z=1537365188",
+        "time" : {
+          "start" : 1645379138712,
+          "stop" : 1645379138712,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST 200 https://www.google-analytics.com/j/collect?v=1&_v=j96&a=24250909&t=pageview&cu=TRY&_s=1&dl=https%3A%2F%2Fwww.yemeksepeti.com%2Fen%2Fankara&ul=en-us&de=UTF-8&dt=Ankara%20Online%20Food%20Order%20%26%20Delivery%20-%20Yemek%20Sepeti&sd=24-bit&sr=1920x1080&vp=983x643&je=0&_u=aGBAAAIJAAAAAC~&jid=362869821&gjid=195593599&cid=534995506.1645379137&tid=UA-86673819-2&_gid=283358875.1645379137&_r=1&_slc=1&z=1537365188",
+        "time" : {
+          "start" : 1645379138712,
+          "stop" : 1645379138712,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST 200 https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-86673819-2&cid=534995506.1645379137&jid=362869821&gjid=195593599&_gid=283358875.1645379137&_u=aGBAAAIIAAAAAC~&z=69254964",
+        "time" : {
+          "start" : 1645379138713,
+          "stop" : 1645379138713,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST 204 https://logx.optimizely.com/v1/events",
+        "time" : {
+          "start" : 1645379138713,
+          "stop" : 1645379138713,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST 201 https://dev.appboy.com/api/v3/data/",
+        "time" : {
+          "start" : 1645379138713,
+          "stop" : 1645379138713,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST 201 https://dev.appboy.com/api/v3/content_cards/sync",
+        "time" : {
+          "start" : 1645379138713,
+          "stop" : 1645379138713,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST https://admclientapi.yemeksepeti.com/CampaignHit",
+        "time" : {
+          "start" : 1645379138713,
+          "stop" : 1645379138713,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST https://admclientapi.yemeksepeti.com/CampaignHit",
+        "time" : {
+          "start" : 1645379138714,
+          "stop" : 1645379138714,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST https://admclientapi.yemeksepeti.com/CampaignHit",
+        "time" : {
+          "start" : 1645379138714,
+          "stop" : 1645379138714,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST https://admclientapi.yemeksepeti.com/CampaignHit",
+        "time" : {
+          "start" : 1645379138714,
+          "stop" : 1645379138714,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "POST https://pagespeed.deliveryhero.net/log",
+        "time" : {
+          "start" : 1645379138715,
+          "stop" : 1645379138715,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 15,
+      "hasContent" : true
+    }, {
+      "name" : "get #UserName",
+      "time" : {
+        "start" : 1645379138718,
+        "stop" : 1645379138731,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "type invalid@email.com",
+      "time" : {
+        "start" : 1645379138731,
+        "stop" : 1645379139432,
+        "duration" : 701
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST 200 /cdn-cgi/rum?",
+      "time" : {
+        "start" : 1645379139432,
+        "stop" : 1645379139432,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<input#UserName.form-control>** to have value **invalid@email.com**",
+      "time" : {
+        "start" : 1645379139432,
+        "stop" : 1645379139432,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "invalid@email.com"
+      }, {
+        "name" : "expected",
+        "value" : "invalid@email.com"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "get #password",
+      "time" : {
+        "start" : 1645379139432,
+        "stop" : 1645379139445,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "type Invalid.12345",
+      "time" : {
+        "start" : 1645379139445,
+        "stop" : 1645379140072,
+        "duration" : 627
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "get #ys-fastlogin-button",
+      "time" : {
+        "start" : 1645379140072,
+        "stop" : 1645379140092,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1645379140092,
+        "stop" : 1645379140370,
+        "duration" : 278
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST https://www.yemeksepeti.com/en/login",
+      "time" : {
+        "start" : 1645379140370,
+        "stop" : 1645379140370,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "get #ui-id-1 > div > span > strong",
+      "time" : {
+        "start" : 1645379140370,
+        "stop" : 1645379140640,
+        "duration" : 270
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<strong>** to have text **Invalid credentials. Please check your username and password, then try again.**",
+      "time" : {
+        "start" : 1645379140640,
+        "stop" : 1645379140640,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "Invalid credentials. Please check your username and password, then try again."
+      }, {
+        "name" : "expected",
+        "value" : "Invalid credentials. Please check your username and password, then try again."
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 27,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e4d2a6fd70401d.json",
+  "parameterValues" : [ ]
+}
