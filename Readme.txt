@@ -1,12 +1,19 @@
 Requirements
+## Setup
++ Install Visual Studio Code
++ Clone the repository
++ Install node.js and npm
++ Install cypress (npm install cypress --save-dev)
++ Install all dependencies using `npm install`
++ Java for Allure Reports
++ Docker Desktop
+  -image: "cypress/included:9.5.0"
 
-Java for Allure Reports
-Docker Desktop
--image: "cypress/included:9.5.0"
-Install All Dependencies
--cypress-allure-plugin
--cypress-mochawesome-reporter
--json-file-reporter
+TO Run Tests 
+npx cypress run
+
+TO Run Tests on Docker (Parallel and Crossbrowser)
+docker-compose up
 
 Commands For Allure Reports
 
@@ -14,8 +21,3 @@ Commands For Allure Reports
 -generate new report based on current "allure-results" folder: allure generate
 -open generated report from "allure-report" folder: allure open
 
-TO Run Tests 
-npx cypress run
-
-TO Run Tests on Docker (Parallel and Crossbrowser)
-docker-compose up
